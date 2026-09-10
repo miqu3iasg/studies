@@ -1,0 +1,56 @@
+# Private directories
+_*/
+
+# Git
+.git/
+
+# Compiled binaries
+*.exe
+*.out
+*.bin
+*.dll
+*.so
+*.dylib
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# C / C++
+*.o
+*.obj
+*.a
+*.lib
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# Build directories
+build/
+dist/
+target/
+out/
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.log
